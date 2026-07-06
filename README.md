@@ -12,7 +12,3 @@ Backend developer with a **10-year engineering background in industrial automati
 - **[ai-post-bot](https://github.com/semtexfromua/ai-post-bot)** — FastAPI content pipeline: RSS/Telegram → LLM → scheduled publishing. Celery · Redis · PostgreSQL · Alembic · 235 tests.
 - **[django-test-shop](https://github.com/semtexfromua/django-test-shop)** ([🔗 live demo](https://django-test-shop.onrender.com)) — Django + DRF e-commerce backend: JWT auth, GraphQL, Celery, Docker, CI, ~95% test coverage.
 - **[vibe-typing](https://github.com/semtexfromua/vibe-typing)** — Claude Code plugin that turns your codebase into typing lessons.
-
-### 📫 Reach me
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:semtexfromua001@gmail.com)
-Open to **Strong Junior / Middle Python Backend** roles · Ukraine / remote
